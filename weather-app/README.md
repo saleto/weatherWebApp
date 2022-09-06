@@ -6,6 +6,14 @@ This project was made to get weather data from input Location
 # Preview 
 ![alt text](/weather-app/src/ReadmeImgSources/weather.png)
 
+# API guide
+Data was fetched from https://weatherstack.com/
+You will need to sign up and input your own BaseUrl and ApiKey in enviroment file.
+  access_key: YOUR_KEY,
+  baseUrl: 'http://api.weatherstack.com/current?access_key=',
+  queryLocation: '&query='
+Noted: The request must be http since current plan (free) only allow http or else you will get error 105.
+
 
 ## Development server
 

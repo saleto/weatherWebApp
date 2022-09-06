@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This project was made to get weather data from input Location
 
 # Preview 
-![alt text](/weather-app/src/ReadmeImgSources/weather.png)
+![alt text](/weather-app/src/ReadmeImgSources/weather2.png)
 
 # API guide
 Data was fetched from https://weatherstack.com/
